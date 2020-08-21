@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "5f3d3e0dcd726e5e89e0a181"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Jod",
+  "apellido": "Louis",
+  "tel": 4426682969,
+  "email": "jodlouis.dev@gmail.com",
+  "pass": "$2a$10$8mYAgz7Wyq.NCmjjwJEDcuv1y1rKdQLXV1vkEgtCwr028apEXpd/S",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3dc882ad45ca870a6278fb"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Michelle",
+  "apellido": "Irma",
+  "tel": 5534936739,
+  "email": "michelle_29@gmail.com",
+  "pass": "$2a$10$epMctICJGa3FTGUtZqL4yOuJmXhjxbPZv3NgGpNSvpqJoVI5OqTiq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3edbb787d37f4178fe4da1"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Jod",
+  "apellido": "Test11",
+  "tel": 41234567,
+  "email": "test@mail.com",
+  "pass": "$2a$10$qFv7b0USfQpNIcws4bCb4OWyAgEsYImB39fwNMhXZoJSSZoY897ba",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3f20c287d37f4178fe4da2"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Jod Token",
+  "apellido": "Test11",
+  "tel": 41234567,
+  "email": "test1@mail.com",
+  "pass": "$2a$10$7emNFIGrz2yxPQG39kGOEOrkjEnZnwCqhZsvyJyFTirXPaA3dkPjC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3f2f0887d37f4178fe4da3"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Jod",
+  "apellido": "Test11",
+  "tel": 41234567,
+  "email": "test5@mail.com",
+  "pass": "$2a$10$YbAU5kJJMvae2XhOXdiR9uAio6ZnFDEqdhYYGxUqy1Y3t2Nxnr2yq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3f2f1487d37f4178fe4da4"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Jod",
+  "apellido": "Test11",
+  "tel": 41234567,
+  "email": "test56@mail.com",
+  "pass": "$2a$10$O18TPgSM4Eu2c6DC/cfyWOFdb0kG5cC6WkFayipvd17zfj.m3/MT.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3f2f4387d37f4178fe4da5"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Jod",
+  "apellido": "Test11",
+  "tel": 41234567,
+  "email": "testff@mail.com",
+  "pass": "$2a$10$f2kA8lrFeaEmiWlm.zILWeM1gI9ytVyt.zTxfdPgDAd/PE5wOYM0y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3fb19e68acfb6c0895332a"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Louis",
+  "apellido": "Noah",
+  "tel": 1234567890,
+  "email": "noah@mail.com",
+  "pass": "$2a$10$dHlGgxWC42sF76/CtinBMuYWwQm1tOAF8p3JoI/SXmThbOJGt9xBi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3fe214f9df2e7424f2031a"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Michelle",
+  "apellido": "Pradis",
+  "tel": 5534936739,
+  "email": "michelle@gmaiil.com",
+  "pass": "$2a$10$OO1duBCXrQkkydUIa0xyp.Y0rhB7fudSQ.uGXBNq7TAo8cRYJ1Wom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f40038bf9df2e7424f2031b"
+  },
+  "role": "USER_ROLE",
+  "google": false,
+  "nombre": "Jod",
+  "apellido": "Louis",
+  "tel": 4426682969,
+  "email": "ing.jod@gmail.com",
+  "pass": "$2a$10$hzUU8WPKzOD269ZtBD/KiO2gH25NYB3yvZX4YkkFYYY9SmMd4F1ti",
+  "__v": 0
+}]
