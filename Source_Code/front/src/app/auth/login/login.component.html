@@ -1,0 +1,53 @@
+<span class="form-inline">
+  <select
+      class="form-control"
+      #selectedLang
+      (change)="switchLang(selectedLang.value)">
+    <option *ngFor="let language of translate.getLangs()"
+      [value]="language"
+      [selected]="language === translate.currentLang">
+      {{ language }}
+    </option>
+  </select>
+</span>
+
+<section id="wrapper">
+    <div class="login-register" style="background-image:url(./assets/images/background/login-register.jpg);">
+        <div class="login-box card">
+            <div class="card-body">
+                <form class="form-horizontal form-material" autocomplete="off" [formGroup]="loginForm" (ngSubmit)="login()" id="loginform">
+                    <h3 class="box-title m-b-20">{{'sigin' | translate}}</h3>
+                    <div class="form-group ">
+                        <div class="col-xs-12">
+                            <input class="form-control" type="email" placeholder="{{'mail' | translate}}" formControlName="email">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-xs-12">
+                            <input class="form-control" type="password" placeholder="{{'pass' | translate}}" formControlName="pass">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-12">
+                            <div class="checkbox checkbox-info pull-left p-t-0">
+                                <input id="checkbox-signup" type="checkbox" class="filled-in chk-col-light-blue" formControlName="remember">
+                                <label for="checkbox-signup">{{'remember' | translate}}</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group text-center">
+                        <div class="col-xs-12 p-b-20">
+                            <button class="btn btn-block btn-lg btn-info btn-rounded" type="submit">{{'login' | translate}}</button>
+                        </div>
+                    </div>
+
+                    <div class="form-group m-b-0">
+                        <div class="col-sm-12 text-center">
+                            {{'donthaveaccount' | translate}}? <a routerLink="/register" class="text-info m-l-5"><b>{{'singup' | translate}}</b></a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

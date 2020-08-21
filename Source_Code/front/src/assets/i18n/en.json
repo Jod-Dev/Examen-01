@@ -1,0 +1,22 @@
+
+{
+  "sigin": "Sign in",
+  "mail": "Email",
+  "pass": "Password",
+  "confirmpass": "Confirm Password",
+  "login": "Login",
+  "singup": "Sign Up",
+  "remember": "Remember me",
+  "donthaveaccount": "Don't have an account",
+  "haveanaccount": "Already have an account",
+  "firstname": "Firstname",
+  "lastname": "Lastname",
+  "tel": "Phone",
+  "terms": "Terms",
+  "iagree": " I agree to all",
+  "myprofile": "My profile",
+  "viewprofile": "View Profile",
+  "logout": "Logout",
+  "welcome": "Welcome",
+  "social": "Social Profile"
+}

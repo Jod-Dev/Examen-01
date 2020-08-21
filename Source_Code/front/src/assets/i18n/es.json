@@ -1,0 +1,22 @@
+
+{
+  "sigin": "Iniciar sesión",
+  "mail": "Correo electrónico",
+  "pass": "Contraseña",
+  "confirmpass": "Confirmar contraseña",
+  "login": "Iniciar sesión",
+  "singup": "Registrarse",
+  "remember": "Recuérdame",
+  "donthaveaccount": "¿No tengo una cuenta",
+  "haveanaccount": "Ya tengo una cuenta",
+  "firstname": "Nombre",
+  "lastname": "Apellido",
+  "tel": "Teléfono",
+  "terms": "Terms",
+  "iagree": "Estoy de acuerdo con todos los",
+  "myprofile": "Mi perfil",
+  "viewprofile": "Ver perfil",
+  "logout": "Cerrar sesión",
+  "welcome": "Bienvenido",
+  "social": "Redes social"
+}
